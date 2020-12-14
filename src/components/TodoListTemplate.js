@@ -8,7 +8,7 @@ const TodoListTemplate = ({form, children}) => {
         오늘 할 일
       </div>
       <section className="form-wrapper">
-        {/* {form} */}
+        {form}
       </section>
       <section className="todos-wrapper">
         {/* { children } */}
